@@ -18,6 +18,7 @@ public class Functionality extends Drink {
 		return correct;
 	}
 	
+	//given the starting position and the array of sizes
 	static int[] remove_three(int position, int []arr)
 	{
 		int n=arr.length;
